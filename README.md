@@ -1,4 +1,4 @@
-# The Web Scraping & Data Extraction Playbook 🕸️📊
+# The Web Scraping & Data Extraction Playbook 🕸️📊⚽
 
 ## 📖 About This Repository
 The modern web has evolved, and traditional scraping methods are no longer enough. This repository serves as a comprehensive, tier-based guide to web scraping and data extraction in Python. 
